@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-Computer Science student (graduating Sept 2026) with hands-on experience in AI/ML engineering, LLM applications, RAG pipelines, and front-end development. I specialize in building AI-powered systems using Python, LangChain, and modern ML tooling — and I bridge the gap between technical AI research and business decision-making through executive-level communication.
+Computer Science student (graduating june 2026) with hands-on experience in AI/ML engineering, LLM applications, RAG pipelines, and front-end development. I specialize in building AI-powered systems using Python, LangChain, and modern ML tooling — and I bridge the gap between technical AI research and business decision-making through executive-level communication.
 
 **Currently:** R&D Intern (AI, Automation & Emerging Technologies) @ Global Brands Group
 
@@ -58,19 +58,14 @@ Computer Science student (graduating Sept 2026) with hands-on experience in AI/M
                        
                         - ---
 
-                        ## 🚀 Projects
+                        ##  Projects
 
                         ### 🔗 [Angular Project](https://github.com/Nadine516/angular-project)
                         Responsive web application built with Angular and TypeScript, featuring dynamic components and REST API integration.
                         `Angular` `TypeScript` `JavaScript` `HTML/CSS`
 
-                        ### 🛒 [Shopping Cart](https://github.com/Nadine516/ShoppingCart)
-                        Full-featured shopping cart application built with TypeScript, implementing state management and dynamic UI updates.
-                        `TypeScript` `JavaScript`
 
-                        ### 📚 [Bookstore App](https://github.com/Nadine516/bookstore)
-                        Web-based bookstore application with browsing and management functionality.
-                        `JavaScript` `HTML/CSS`
+                    
 
                         > 🔜 **Coming Soon:** RAG Document Q&A system (LangChain + Python), ML classification model with Jupyter notebooks, AI chatbot pipeline demo
                         >
@@ -78,7 +73,7 @@ Computer Science student (graduating Sept 2026) with hands-on experience in AI/M
                         >
                         > ## 🎓 Education
                         >
-                        > **Bachelor of Computer Science** — *Expected Sept 2026*
+                        > **Bachelor of Computer Science** — *Expected june 2026*
                         > Misr University for Science and Technology · Grade: **Very Good**
                         >
                         > ---
