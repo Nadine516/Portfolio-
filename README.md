@@ -65,7 +65,11 @@ Computer Science student (graduating June 2026) with hands-on experience in AI/M
                           Full-stack Angular 16 bookstore app with user authentication, book browsing by category, full CRUD operations, and REST API integration — built during Front-End Developer Internship at Global Brands Group.
                           `Angular` `TypeScript` `JavaScript` `HTML/CSS`
 
-                          > 🔜 **Coming Soon:** RAG Document Q&A system (LangChain + Python), n8n automation workflows, ML classification model with Jupyter notebooks, AI chatbot pipeline demo
+                          ### 🔍 [AI Technology Evaluation Toolkit](https://github.com/Nadine516/ai-tech-evaluator)
+AI-powered tool that automatically researches any technology, compares it to competitors, scores it across 5 criteria, and generates a structured executive report — built on R&D methodology from my internship at Global Brands Group.
+`Python` `LangChain` `Tavily` `Groq LLaMA3` `Streamlit` `Pydantic` `Jinja2`
+
+> 🔜 **Coming Soon:** RAG Document Q&A system, ML classification model
                           >
                           > ---
                           >
